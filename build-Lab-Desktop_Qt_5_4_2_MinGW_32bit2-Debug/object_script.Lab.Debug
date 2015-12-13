@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\loginWidget.o
+./debug\mainform.o
+./debug\insertdialog.o
+./debug\editdialog.o
+./debug\qrc_resources.o
+./debug\moc_loginWidget.o
+./debug\moc_mainform.o
+./debug\moc_insertdialog.o
+./debug\moc_editdialog.o
+);

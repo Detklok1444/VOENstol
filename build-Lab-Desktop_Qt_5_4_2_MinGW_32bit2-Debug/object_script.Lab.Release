@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\loginWidget.o
+./release\mainform.o
+./release\insertdialog.o
+./release\editdialog.o
+./release\qrc_resources.o
+./release\moc_loginWidget.o
+./release\moc_mainform.o
+./release\moc_insertdialog.o
+./release\moc_editdialog.o
+);
