@@ -30,3 +30,4 @@ DISTFILES +=
 
 RESOURCES += \
     resources.qrc
+%мой коммент
